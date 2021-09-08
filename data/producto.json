@@ -1,4 +1,4 @@
-[{"id":1,"nombre":"Hog / Sausage Casing - Pork","precio":345.95,"categoria":"CARNES","cantidad":1,"imagen":"http://dummyimage.com/250x250.png/5fa2dd/ffffff"},
+[{"id":1,"nombre":"BIFE ANCHO","precio":345.95,"categoria":"CARNES","cantidad":1,"imagen":"http://dummyimage.com/250x250.png/5fa2dd/ffffff"},
 {"id":2,"nombre":"Sprouts - Corn","precio":2132.19,"categoria":"CARNES","cantidad":1,"imagen":"http://dummyimage.com/250x250.png/ff4444/ffffff"},
 {"id":3,"nombre":"Thyme - Lemon, Fresh","precio":2105.48,"categoria":"LACTEOS","cantidad":1,"imagen":"http://dummyimage.com/250x250.png/5fa2dd/ffffff"},
 {"id":4,"nombre":"Spinach - Baby","precio":1928.47,"categoria":"FIAMBRES","cantidad":1,"imagen":"http://dummyimage.com/250x250.png/cc0000/ffffff"},
